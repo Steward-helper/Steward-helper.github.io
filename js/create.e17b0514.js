@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["create"],{"3c38":function(e,t,a){},d6df:function(e,t,a){"use strict";var n=a("3c38"),c=a.n(n);c.a},d879:function(e,t,a){"use strict";a.r(t);var n=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"page-create"},[e._v(" create ")])},c=[],r={name:"AutomationCreate"},s=r,i=(a("d6df"),a("2877")),u=Object(i["a"])(s,n,c,!1,null,"0a825b41",null);t["default"]=u.exports}}]);
-//# sourceMappingURL=create.e17b0514.js.map
